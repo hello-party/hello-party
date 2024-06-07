@@ -5,4 +5,4 @@ Listen, I can barely code anything... so if you use any code from here, please b
 Enjoy!
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/hello-party/hello-party-old.github.io/master/images/galaxy.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; height:130vw;opacity: 0.5; background: url('https://raw.githubusercontent.com/hello-party/hello-party-old.github.io/master/images/galaxy.jpg');]{x0000}$}
